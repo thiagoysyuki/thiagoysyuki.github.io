@@ -11,6 +11,10 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
+
+lang: pt
+
 format:
   html:
     theme:
