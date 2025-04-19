@@ -1,0 +1,11 @@
+---
+title: "Qual linguagem usar em ciência de dados?"
+author: "Thiago Yuki"
+date: "2025-04-19"
+categories: [dúvidas]
+#image: "image.jpg"
+---
+
+## R vs Python vs Julia 
+
+Teste de propagação
