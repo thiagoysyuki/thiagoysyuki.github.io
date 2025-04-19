@@ -1,2 +1,4 @@
 # thiagoysyuki.github.io
-Meu portifólio de Ciência de Dados
+Meu blog / portifólio de Ciência de Dados no Github pages.
+
+É aqui que posto tutoriais mais práticos.
