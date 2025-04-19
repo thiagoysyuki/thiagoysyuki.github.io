@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Artigos & Tutoriais"
 listing:
   contents: posts
   sort: "date desc"

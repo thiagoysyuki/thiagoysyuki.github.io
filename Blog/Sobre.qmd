@@ -1,0 +1,18 @@
+---
+title: "Sobre"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: Youtube
+      text: Youtube
+      href: https://www.youtube.com/@resolvedortech
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thiagoyuki/
+    - icon: github
+      text: Github
+      href: https://github.com/thiagoysyuki
+---
+
+About this blog

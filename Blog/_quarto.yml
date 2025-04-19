@@ -3,14 +3,16 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Blog"
+  title: "Blog de Histórias"
   navbar:
     right:
-      - about.qmd
+      - Sobre.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/thiagoysyuki
+      - icon: instagram
+        href: https://www.instagram.com/resolvedortech/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thiagoyuki/
 
 
 lang: pt

@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "posts/qual-linguagem-usar-em-ds/index.html",
-    "href": "posts/qual-linguagem-usar-em-ds/index.html",
-    "title": "Qual linguagem usar em ciência de dados?",
-    "section": "",
-    "text": "Teste de propagação"
-  },
-  {
-    "objectID": "posts/qual-linguagem-usar-em-ds/index.html#r-vs-python-vs-julia",
-    "href": "posts/qual-linguagem-usar-em-ds/index.html#r-vs-python-vs-julia",
-    "title": "Qual linguagem usar em ciência de dados?",
-    "section": "",
-    "text": "Teste de propagação"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Sobre.html",
+    "href": "Sobre.html",
+    "title": "Sobre",
     "section": "",
     "text": "About this blog"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Blog",
+    "title": "Artigos & Tutoriais",
     "section": "",
     "text": "Qual linguagem usar em ciência de dados?\n\n\n\ndúvidas\n\n\n\n\n\n\n\n\n\n19 de abr. de 2025\n\n\nThiago Yuki\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "posts/qual-linguagem-usar-em-ds/index.html#r-vs-python",
+    "href": "posts/qual-linguagem-usar-em-ds/index.html#r-vs-python",
+    "title": "Qual linguagem usar em ciência de dados?",
+    "section": "R vs Python",
+    "text": "R vs Python\nTeste de propagação"
   }
 ]
